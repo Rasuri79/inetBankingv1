@@ -1,0 +1,567 @@
+2022-08-09 15:33:10,439 +0530 [main] INFO  (Login_test_001.java:17) - url opened
+2022-08-09 15:33:11,939 +0530 [main] INFO  (Login_test_001.java:22) - login details entered
+2022-08-09 15:33:11,950 +0530 [main] INFO  (Login_test_001.java:31) - test failed
+2022-08-09 15:33:12,664 +0530 [main] INFO  (BaseClass.java:37) - browser closed
+2022-08-09 16:01:01,593 +0530 [main] INFO  (Login_test_001.java:17) - url opened
+2022-08-09 16:01:03,045 +0530 [main] INFO  (Login_test_001.java:22) - login details entered
+2022-08-09 16:01:03,053 +0530 [main] INFO  (Login_test_001.java:31) - test failed
+2022-08-09 16:01:03,780 +0530 [main] INFO  (BaseClass.java:37) - browser closed
+2022-08-09 16:02:33,000 +0530 [main] INFO  (Login_test_001.java:17) - url opened
+2022-08-09 16:02:34,436 +0530 [main] INFO  (Login_test_001.java:22) - login details entered
+2022-08-09 16:02:34,443 +0530 [main] INFO  (Login_test_001.java:31) - test failed
+2022-08-09 16:02:35,116 +0530 [main] INFO  (BaseClass.java:37) - browser closed
+2022-08-09 16:26:34,927 +0530 [main] INFO  (Login_test_001.java:17) - url opened
+2022-08-09 16:26:40,250 +0530 [main] INFO  (Login_test_001.java:22) - login details entered
+2022-08-09 16:26:40,256 +0530 [main] INFO  (Login_test_001.java:25) - title is correct
+2022-08-09 16:26:40,928 +0530 [main] INFO  (BaseClass.java:37) - browser closed
+2022-08-14 11:42:52,767 +0530 [main] INFO  (Login_test_001.java:17) - url opened
+2022-08-14 11:42:53,688 +0530 [main] INFO  (BaseClass.java:61) - browser closed
+2022-08-14 11:45:03,088 +0530 [main] INFO  (Login_test_001.java:17) - url opened
+2022-08-14 11:45:04,060 +0530 [main] INFO  (BaseClass.java:61) - browser closed
+2022-08-14 11:48:59,931 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 11:49:05,969 +0530 [main] INFO  (BaseClass.java:61) - browser closed
+2022-08-14 11:51:09,872 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 11:51:15,838 +0530 [main] INFO  (BaseClass.java:61) - browser closed
+2022-08-14 11:51:48,904 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 11:51:54,070 +0530 [main] INFO  (BaseClass.java:61) - browser closed
+2022-08-14 11:59:00,886 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 11:59:06,024 +0530 [main] INFO  (BaseClass.java:61) - browser closed
+2022-08-14 12:01:25,020 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:01:30,166 +0530 [main] INFO  (BaseClass.java:61) - browser closed
+2022-08-14 12:07:08,880 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:07:10,058 +0530 [main] INFO  (Login_test_001.java:25) - login details entered
+2022-08-14 12:07:10,158 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:10:10,663 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:10:15,268 +0530 [main] INFO  (Login_test_001.java:26) - login details entered
+2022-08-14 12:10:15,399 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:12:17,771 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:12:23,117 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:12:23,206 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:16:12,659 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:16:18,764 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:16:18,811 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:18:27,297 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:18:33,454 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:18:33,550 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:22:04,077 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:22:09,005 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:22:09,996 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:26:21,057 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:26:26,262 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:26:27,224 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:32:41,385 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:32:46,484 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:32:47,388 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:37:44,190 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:37:49,126 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:37:49,864 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:41:14,446 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:41:20,006 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:41:20,019 +0530 [main] INFO  (Login_test_001.java:30) - title is correct
+2022-08-14 12:41:20,741 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:42:15,119 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:42:22,261 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:42:22,279 +0530 [main] INFO  (Login_test_001.java:30) - title is correct
+2022-08-14 12:42:22,987 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:52:06,279 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:52:13,304 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:52:13,314 +0530 [main] INFO  (Login_test_001.java:30) - title is correct
+2022-08-14 12:52:14,172 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 12:52:32,602 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 12:52:38,890 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 12:52:38,901 +0530 [main] INFO  (Login_test_001.java:30) - title is correct
+2022-08-14 12:52:39,689 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-14 13:43:34,620 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-14 13:43:41,772 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-14 13:43:41,787 +0530 [main] INFO  (Login_test_001.java:30) - title is correct
+2022-08-14 13:43:42,597 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-15 11:35:12,176 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-15 11:35:19,657 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-15 11:35:19,677 +0530 [main] INFO  (Login_test_001.java:30) - title is correct
+2022-08-15 11:35:20,645 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-15 11:40:17,619 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-15 11:40:25,366 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-15 11:40:25,375 +0530 [main] INFO  (Login_test_001.java:30) - title is correct
+2022-08-15 11:40:26,244 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-15 11:44:50,863 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-15 11:44:57,549 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-15 11:44:57,566 +0530 [main] INFO  (Login_test_001.java:30) - title is correct
+2022-08-15 11:44:58,537 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-15 11:47:31,749 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-15 11:47:39,187 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-15 11:47:39,207 +0530 [main] INFO  (Login_test_001.java:36) - test failed
+2022-08-15 11:47:40,157 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-15 11:50:44,760 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-15 11:50:52,027 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-15 11:50:52,056 +0530 [main] INFO  (Login_test_001.java:36) - test failed
+2022-08-15 11:50:53,050 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-15 11:55:53,391 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-15 11:56:00,478 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-15 11:56:00,497 +0530 [main] INFO  (Login_test_001.java:36) - test failed
+2022-08-15 11:56:01,484 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-15 11:56:37,696 +0530 [main] INFO  (Login_test_001.java:20) - url opened
+2022-08-15 11:56:45,469 +0530 [main] INFO  (Login_test_001.java:27) - login details entered
+2022-08-15 11:56:45,482 +0530 [main] INFO  (Login_test_001.java:30) - title is correct
+2022-08-15 11:56:46,436 +0530 [main] INFO  (BaseClass.java:62) - browser closed
+2022-08-15 12:21:58,740 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 12:22:06,728 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 12:22:06,738 +0530 [main] INFO  (Login_test_001.java:38) - test failed
+2022-08-15 12:22:08,067 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 14:22:22,834 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 14:22:30,054 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 14:22:30,074 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 14:22:30,943 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 14:25:13,821 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 14:25:21,236 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 14:25:21,257 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 14:25:22,100 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 14:25:35,238 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 14:25:42,395 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 14:25:42,415 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 14:25:43,266 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 14:33:05,890 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 14:33:12,951 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 14:33:12,973 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 14:33:13,805 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 14:38:04,157 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 14:38:10,502 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 14:38:10,520 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 14:38:11,354 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 14:44:30,126 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 14:44:36,817 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 14:44:36,838 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 14:44:37,743 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 14:53:10,743 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 14:53:18,556 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 14:53:18,580 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 14:53:19,398 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 14:53:19,508 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,508 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2022-08-15 14:53:19,514 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2022-08-15 14:53:19,514 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2022-08-15 14:53:19,766 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,766 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2022-08-15 14:53:19,766 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2022-08-15 14:53:19,766 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2022-08-15 14:53:19,766 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,766 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2022-08-15 14:53:19,766 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2022-08-15 14:53:19,766 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2022-08-15 14:53:19,782 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,782 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2022-08-15 14:53:19,782 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2022-08-15 14:53:19,782 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2022-08-15 14:53:19,799 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,799 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2022-08-15 14:53:19,799 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2022-08-15 14:53:19,799 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2022-08-15 14:53:19,815 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,815 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2022-08-15 14:53:19,815 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2022-08-15 14:53:19,815 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2022-08-15 14:53:19,830 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2022-08-15 14:53:19,847 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,847 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2022-08-15 14:53:19,847 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2022-08-15 14:53:19,847 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2022-08-15 14:53:19,853 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:53:19,853 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2022-08-15 14:53:19,853 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2022-08-15 14:53:19,853 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/Downloads/jar_files/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2022-08-15 14:56:57,899 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 14:57:05,045 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 14:57:05,066 +0530 [main] INFO  (Login_test_001.java:38) - test failed
+2022-08-15 14:57:06,293 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 14:57:06,356 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,357 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2022-08-15 14:57:06,360 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("index.ftl"): Found
+2022-08-15 14:57:06,361 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2022-08-15 14:57:06,532 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,536 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2022-08-15 14:57:06,537 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("head.ftl"): Found
+2022-08-15 14:57:06,537 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2022-08-15 14:57:06,538 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,538 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2022-08-15 14:57:06,542 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2022-08-15 14:57:06,542 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2022-08-15 14:57:06,550 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,551 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2022-08-15 14:57:06,552 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2022-08-15 14:57:06,553 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2022-08-15 14:57:06,564 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,564 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2022-08-15 14:57:06,564 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2022-08-15 14:57:06,564 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2022-08-15 14:57:06,583 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,584 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2022-08-15 14:57:06,585 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2022-08-15 14:57:06,585 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2022-08-15 14:57:06,603 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,604 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2022-08-15 14:57:06,605 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2022-08-15 14:57:06,606 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2022-08-15 14:57:06,611 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,612 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2022-08-15 14:57:06,613 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2022-08-15 14:57:06,613 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2022-08-15 14:57:06,616 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,617 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2022-08-15 14:57:06,618 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2022-08-15 14:57:06,618 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2022-08-15 14:57:06,622 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,623 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2022-08-15 14:57:06,623 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2022-08-15 14:57:06,624 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2022-08-15 14:57:06,630 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-08-15 14:57:06,633 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2022-08-15 14:57:06,634 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2022-08-15 14:57:06,634 +0530 [main] DEBUG (_Log4jLoggerFactory.java:45) - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Raj%20Kumar/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2022-08-15 14:59:32,724 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 14:59:39,777 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 14:59:39,794 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 14:59:40,612 +0530 [main] INFO  (BaseClass.java:69) - browser closed
+2022-08-15 20:44:26,539 +0530 [main] INFO  (Login_Test_002.java:20) - user & pwd entered
+2022-08-15 20:44:28,841 +0530 [main] INFO  (Login_Test_002.java:22) - clicked on login button
+2022-08-15 20:44:31,496 +0530 [main] INFO  (Login_Test_002.java:20) - user & pwd entered
+2022-08-15 20:44:33,830 +0530 [main] INFO  (Login_Test_002.java:22) - clicked on login button
+2022-08-15 20:44:36,326 +0530 [main] INFO  (Login_Test_002.java:20) - user & pwd entered
+2022-08-15 20:44:36,797 +0530 [main] INFO  (Login_Test_002.java:22) - clicked on login button
+2022-08-15 20:44:41,342 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 20:53:06,527 +0530 [main] INFO  (Login_Test_002.java:20) - user & pwd entered
+2022-08-15 20:53:09,121 +0530 [main] INFO  (Login_Test_002.java:22) - clicked on login button
+2022-08-15 20:53:11,763 +0530 [main] INFO  (Login_Test_002.java:20) - user & pwd entered
+2022-08-15 20:53:14,648 +0530 [main] INFO  (Login_Test_002.java:22) - clicked on login button
+2022-08-15 20:53:17,124 +0530 [main] INFO  (Login_Test_002.java:20) - user & pwd entered
+2022-08-15 20:53:17,648 +0530 [main] INFO  (Login_Test_002.java:22) - clicked on login button
+2022-08-15 20:53:22,651 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 20:59:12,813 +0530 [main] INFO  (Login_Test_002.java:21) - user & pwd entered
+2022-08-15 20:59:17,170 +0530 [main] INFO  (Login_Test_002.java:24) - clicked on login button
+2022-08-15 20:59:21,389 +0530 [main] INFO  (Login_Test_002.java:38) - succesfully logged out
+2022-08-15 20:59:25,342 +0530 [main] INFO  (Login_Test_002.java:21) - user & pwd entered
+2022-08-15 20:59:30,194 +0530 [main] INFO  (Login_Test_002.java:24) - clicked on login button
+2022-08-15 20:59:34,397 +0530 [main] INFO  (Login_Test_002.java:38) - succesfully logged out
+2022-08-15 20:59:39,046 +0530 [main] INFO  (Login_Test_002.java:21) - user & pwd entered
+2022-08-15 20:59:42,448 +0530 [main] INFO  (Login_Test_002.java:24) - clicked on login button
+2022-08-15 20:59:47,480 +0530 [main] INFO  (Login_Test_002.java:21) - user & pwd entered
+2022-08-15 20:59:50,872 +0530 [main] INFO  (Login_Test_002.java:24) - clicked on login button
+2022-08-15 20:59:56,377 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 21:00:55,903 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:01:01,126 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:01:05,339 +0530 [main] INFO  (Login_Test_002.java:39) - succesfully logged out
+2022-08-15 21:01:09,639 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:01:14,477 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:01:18,675 +0530 [main] INFO  (Login_Test_002.java:39) - succesfully logged out
+2022-08-15 21:01:23,282 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:01:26,671 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:01:31,559 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:01:35,495 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:01:40,630 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 21:02:32,083 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:02:37,150 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:02:40,828 +0530 [main] INFO  (Login_Test_002.java:41) - succesfully logged out
+2022-08-15 21:02:44,632 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:02:48,819 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:02:53,014 +0530 [main] INFO  (Login_Test_002.java:41) - succesfully logged out
+2022-08-15 21:02:57,289 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:03:00,686 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:03:00,691 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 21:03:05,551 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:03:08,930 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:03:08,935 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 21:03:15,050 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 21:05:06,564 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:05:12,004 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:05:16,206 +0530 [main] INFO  (Login_Test_002.java:41) - succesfully logged out
+2022-08-15 21:05:20,461 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:05:25,249 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:05:29,435 +0530 [main] INFO  (Login_Test_002.java:41) - succesfully logged out
+2022-08-15 21:05:33,675 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:05:37,067 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:05:37,075 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 21:05:41,242 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:05:44,633 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:05:44,640 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 21:05:49,261 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 21:09:45,112 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:09:50,811 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:09:55,045 +0530 [main] INFO  (Login_Test_002.java:42) - succesfully logged out
+2022-08-15 21:09:59,305 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:10:04,703 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:10:08,914 +0530 [main] INFO  (Login_Test_002.java:42) - succesfully logged out
+2022-08-15 21:10:13,021 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:10:16,426 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:10:16,431 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 21:10:21,356 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:10:24,736 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:10:24,741 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 21:10:29,581 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 21:14:39,616 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 21:14:46,375 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 21:14:46,392 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 21:14:47,216 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 21:14:53,610 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:14:58,802 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:15:03,013 +0530 [main] INFO  (Login_Test_002.java:42) - succesfully logged out
+2022-08-15 21:15:07,141 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:15:11,882 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:15:16,065 +0530 [main] INFO  (Login_Test_002.java:42) - succesfully logged out
+2022-08-15 21:15:20,832 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:15:24,246 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:15:24,254 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 21:15:28,625 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 21:15:32,562 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 21:15:32,567 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 21:15:37,688 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 22:24:19,110 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 22:24:26,404 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 22:24:26,427 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 22:24:27,218 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 22:24:33,916 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:24:39,264 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:24:43,498 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-15 22:24:48,300 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:24:53,670 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:24:57,875 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-15 22:25:01,577 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:25:04,990 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:25:04,995 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 22:25:09,577 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:25:12,955 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:25:12,958 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 22:25:17,751 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 22:27:27,449 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-15 22:27:34,377 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-15 22:27:34,401 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-15 22:27:35,205 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 22:27:41,716 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:27:46,929 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:27:50,604 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-15 22:27:54,553 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:27:59,383 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:28:03,552 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-15 22:28:07,683 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:28:11,089 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:28:11,094 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 22:28:15,252 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:28:18,665 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:28:18,669 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 22:28:22,833 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-15 22:30:54,986 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:30:58,491 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:30:58,499 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 22:31:02,880 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-15 22:31:06,289 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-15 22:31:06,295 +0530 [main] WARN  (Login_Test_002.java:28) - wrong credentials
+2022-08-15 22:31:11,061 +0530 [main] INFO  (BaseClass.java:70) - browser closed
+2022-08-19 09:18:36,747 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-19 09:18:43,912 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-19 09:18:50,459 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:20:31,391 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-19 09:20:38,276 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-19 09:20:49,212 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:25:35,810 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-19 09:25:42,826 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-19 09:25:51,174 +0530 [main] INFO  (Login_Test_003.java:43) - Clicked on submit
+2022-08-19 09:25:57,069 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:28:59,215 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-19 09:29:06,194 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-19 09:29:16,112 +0530 [main] INFO  (Login_Test_003.java:43) - Clicked on submit
+2022-08-19 09:29:26,970 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:33:17,633 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-19 09:33:24,731 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-19 09:33:36,346 +0530 [main] INFO  (Login_Test_003.java:43) - Clicked on submit
+2022-08-19 09:33:46,471 +0530 [main] INFO  (Login_Test_003.java:47) - Customer Added
+2022-08-19 09:33:47,276 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:35:00,558 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-19 09:35:07,539 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-19 09:35:50,032 +0530 [main] INFO  (Login_Test_003.java:43) - Clicked on submit
+2022-08-19 09:36:01,047 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:39:18,140 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-19 09:39:25,005 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-19 09:39:25,018 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-19 09:39:25,814 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:39:32,760 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:39:37,830 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:39:42,041 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-19 09:39:46,326 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:39:51,192 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:39:55,385 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-19 09:39:59,717 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:40:03,233 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:40:07,081 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:40:11,004 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:40:16,068 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:40:20,463 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-19 09:40:27,838 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-19 09:40:40,424 +0530 [main] INFO  (Login_Test_003.java:43) - Clicked on submit
+2022-08-19 09:40:51,532 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:43:37,714 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-19 09:43:44,890 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-19 09:43:44,908 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-19 09:43:45,700 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:43:52,606 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:43:57,706 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:44:01,396 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-19 09:44:05,836 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:44:10,652 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:44:14,825 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-19 09:44:18,916 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:44:22,303 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:44:26,252 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:44:29,650 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:44:34,754 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:44:39,240 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-19 09:44:46,495 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-19 09:45:04,797 +0530 [main] INFO  (Login_Test_003.java:43) - Clicked on submit
+2022-08-19 09:45:14,821 +0530 [main] INFO  (Login_Test_003.java:47) - Customer Added
+2022-08-19 09:45:15,588 +0530 [main] INFO  (BaseClass.java:73) - browser closed
+2022-08-19 09:48:54,687 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-19 09:49:01,547 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-19 09:49:01,565 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-19 09:49:02,399 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-19 09:49:08,380 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:49:13,854 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:49:18,063 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-19 09:49:22,554 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:49:26,901 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:49:31,110 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-19 09:49:35,091 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:49:38,474 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:49:42,702 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-19 09:49:46,095 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-19 09:49:51,436 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-19 09:49:57,646 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-19 09:50:03,957 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-19 09:50:15,467 +0530 [main] INFO  (Login_Test_003.java:43) - Clicked on submit
+2022-08-19 09:50:26,468 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:04:55,442 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:05:06,660 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:05:06,673 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:05:07,657 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:05:19,799 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-20 13:05:25,163 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-20 13:05:29,569 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-20 13:05:35,013 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-20 13:05:39,974 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-20 13:05:44,551 +0530 [main] INFO  (Login_Test_002.java:43) - succesfully logged out
+2022-08-20 13:05:51,727 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-20 13:05:55,698 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-20 13:06:00,712 +0530 [main] INFO  (Login_Test_002.java:22) - user & pwd entered
+2022-08-20 13:06:04,171 +0530 [main] INFO  (Login_Test_002.java:25) - clicked on login button
+2022-08-20 13:06:10,962 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:06:17,969 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:06:24,971 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:07:01,933 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:08:47,816 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:08:55,218 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:08:55,235 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:08:56,207 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:09:01,203 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:09:08,301 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:09:19,379 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:12:45,283 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:12:52,606 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:12:52,631 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:12:53,614 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:13:10,937 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:13:18,537 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:13:31,252 +0530 [main] INFO  (Login_Test_003.java:43) - Clicked on submit
+2022-08-20 13:13:41,391 +0530 [main] INFO  (Login_Test_003.java:47) - Customer Added
+2022-08-20 13:13:42,259 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:14:12,830 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:14:20,557 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:14:20,581 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:14:21,603 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:14:26,373 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:14:34,162 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:14:44,585 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:16:58,139 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:17:05,590 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:17:05,614 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:17:06,629 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:17:11,603 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:17:18,865 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:17:29,933 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:18:31,983 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:18:39,093 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:18:39,109 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:18:40,067 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:18:44,637 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:18:52,042 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:19:03,370 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:20:00,579 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:20:07,572 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:20:07,588 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:20:08,553 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:20:14,224 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:20:21,824 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:20:34,075 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:33:02,728 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:33:10,535 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:33:10,556 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:33:11,574 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:33:17,635 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:33:25,344 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:33:35,756 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:36:03,279 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:36:11,782 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:36:11,809 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:36:12,828 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:36:18,120 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:36:25,651 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:36:47,110 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:38:30,685 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 13:38:38,011 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 13:38:38,036 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 13:38:39,008 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 13:38:44,247 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 13:38:52,284 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 13:39:12,774 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 18:23:38,944 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 18:23:46,691 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 18:23:46,712 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 18:23:47,653 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 18:23:52,043 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 18:23:59,351 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 18:24:22,538 +0530 [main] INFO  (Login_Test_003.java:44) - Clicked on submit
+2022-08-20 18:24:32,570 +0530 [main] INFO  (Login_Test_003.java:48) - Customer Added
+2022-08-20 18:24:33,444 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 18:25:47,247 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 18:25:54,770 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 18:25:54,786 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 18:25:55,747 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 18:26:00,226 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 18:26:07,600 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 18:26:30,593 +0530 [main] INFO  (Login_Test_003.java:44) - Clicked on submit
+2022-08-20 18:26:40,634 +0530 [main] INFO  (Login_Test_003.java:48) - Customer Added
+2022-08-20 18:26:41,490 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 19:03:51,329 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 19:03:58,635 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 19:03:58,657 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 19:03:59,824 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 19:04:04,822 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 19:04:12,316 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 19:04:41,445 +0530 [main] INFO  (Login_Test_003.java:44) - Clicked on submit
+2022-08-20 19:04:51,603 +0530 [main] INFO  (Login_Test_003.java:48) - Customer Added
+2022-08-20 19:04:52,476 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 19:05:03,106 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 21:03:01,976 +0530 [main] INFO  (Login_test_001.java:22) - url opened
+2022-08-20 21:03:09,468 +0530 [main] INFO  (Login_test_001.java:29) - login details entered
+2022-08-20 21:03:09,475 +0530 [main] INFO  (Login_test_001.java:32) - title is correct
+2022-08-20 21:03:10,291 +0530 [main] INFO  (BaseClass.java:75) - browser closed
+2022-08-20 21:03:15,092 +0530 [main] INFO  (Login_Test_003.java:19) - url opened
+2022-08-20 21:03:22,308 +0530 [main] INFO  (Login_Test_003.java:26) - login details entered
+2022-08-20 21:03:44,744 +0530 [main] INFO  (Login_Test_003.java:44) - Clicked on submit
+2022-08-20 21:03:54,770 +0530 [main] INFO  (Login_Test_003.java:48) - Customer Added
+2022-08-20 21:03:55,550 +0530 [main] INFO  (BaseClass.java:75) - browser closed
